@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavya Samanthapudi</h1>
+<h1 align="center">Hi 👋, I'm Kavya </h1>
 <h3 align="center">Tech Explorer - Diving into Data, Cloud, and Everything in Between</h3>
 
 - 🌱 I’m currently learning **advanced data analytics and cloud technologies**
