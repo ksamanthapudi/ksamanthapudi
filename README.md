@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, SQL, Pandas, NumPy, Tableau, Power BI, ETL Pipelines, Exploratory Data Analysis (EDA), Data Integration, Apache Spark, AWS (S3, RDS, Redshift, Athena), and Agile/Scrum Frameworks.**
 
-- 📫 How to reach me **kavyasamanthaa@gmail.com**
+- 📫 How to reach me **ksamanthapudi05@gmail.com**
 
 - ⚡ Fun fact **I think I am funny** 
 
