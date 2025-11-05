@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kavya </h1>
-<h3 align="center">Tech Explorer - Diving into Data, Cloud, and Everything in Between</h3>
+<h1 align="center">Hi 👋, I'm Kavya</h1>
+<h3 align="center">A Computer Science Professional | Exploring Software, Data, Cloud & AI</h3>
 
-- 🌱 I’m currently learning **advanced data analytics and cloud technologies**
-                                                                                <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
-- 👯 I’m looking to collaborate on **projects that push boundaries and create value**
-                                                                                                          
+- 💻 A Computer Science graduate who loves combining creativity with logic — bringing together all my projects here on **GitHub**.  
+- 🚀 My work spans across **Software Development, Cloud Engineering, and Data Analytics** domains.  
+- 🌱 I’m currently learning **Artificial Intelligence (AI)** and **Cloud Automation** — technologies shaping the future of modern software systems.  
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+
+- 👯 I’m looking to collaborate on **projects that challenge norms, push boundaries, and create real value.**  
+
 - 👨‍💻 All of my projects are available at [https://github.com/ksamanthapudi](https://github.com/ksamanthapudi)
 
-- 💬 Ask me about **Python, SQL, Pandas, NumPy, Tableau, Power BI, ETL Pipelines, Exploratory Data Analysis (EDA), Data Integration, Apache Spark, AWS (S3, RDS, Redshift, Athena), and Agile/Scrum Frameworks.**
+- 💬 I love talking tech — whether it’s about **how AI is transforming software, how systems scale, or how automation drives efficiency and more about data.**  
 
-- 📫 How to reach me **ksamanthapudi05@gmail.com**
-
-- ⚡ Fun fact **I think I am funny** 
+- 📫 Reach me at **kavyaconnects.in@gmail.com** 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksamanthapudi&label=Profile%20views&color=0e75b6&style=flat" alt="ksamanthapudi" /> </p>
